@@ -1,3 +1,8 @@
-# Bootstrap Demo Walk Through
+---
+noteId: "406159604cfd11ea8ec11daa4b7d3841"
+tags: []
 
-This repository is for the in-class walk-through of Bootstrap
+---
+
+# Using Bootstrap and jQuery to refactor the Chuck Quote site.
+
